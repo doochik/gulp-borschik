@@ -24,6 +24,6 @@
     "node": ">=0.10"
   },
   "peerDependency": {
-      "borschik": "1.0.x"
+      "borschik": "*"
   }
 }
